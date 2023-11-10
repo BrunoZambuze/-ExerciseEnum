@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\bin\Debug\net6.0\ExerciseEnum.exe
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\bin\Debug\net6.0\ExerciseEnum.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\bin\Debug\net6.0\ExerciseEnum.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\bin\Debug\net6.0\ExerciseEnum.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\bin\Debug\net6.0\ExerciseEnum.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\obj\Debug\net6.0\ExerciseEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\obj\Debug\net6.0\ExerciseEnum.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\obj\Debug\net6.0\ExerciseEnum.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\obj\Debug\net6.0\ExerciseEnum.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\obj\Debug\net6.0\ExerciseEnum.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\obj\Debug\net6.0\refint\ExerciseEnum.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\obj\Debug\net6.0\ExerciseEnum.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\obj\Debug\net6.0\ExerciseEnum.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseEnum\ExerciseEnum\obj\Debug\net6.0\ref\ExerciseEnum.dll
